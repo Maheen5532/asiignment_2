@@ -1,0 +1,291 @@
+@media(max-width:767px)and(min-width : 900px) {
+    .column1{
+        padding: 0rem;
+        margin: 0;
+        width: 100%;
+
+    }
+}
+
+ 
+
+@media(max-width : 375px) {
+    header .navlinks {
+        width: 100%;
+        position: fixed;
+    }
+
+    .main-container {
+        width: 100%;
+        height: 200%;
+        display: block;
+
+
+    }
+
+    .menu img {
+        display: none;
+    }
+
+    .column1 {
+        height: 40%;
+        width: 100%;
+        padding: 0.89rem;
+
+    }
+
+    .column1 h1 {
+        font-size: 1.5rem;
+        line-height: 25px;
+        padding: 0.19rem;
+        margin: 5rem;
+        text-align: center;
+    }
+
+    .column1 p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        padding: 0.2rem;
+        text-align: center;
+        margin: auto;
+
+    }
+
+    .buttons img {
+        width: 12rem;
+        padding: 0.5rem;
+        margin: 0rem 1rem;
+        margin-left: 3rem;
+        text-align: center;
+
+
+    }
+
+    .search img {
+        width: 18rem;
+        height: 2.5rem;
+        margin-left: 1rem;
+    }
+
+    #slider {
+        width: 100%;
+        height: 60%;
+        position: relative;
+        top: 30rem;
+        text-align: center;
+        max-width: 100%;
+
+    }
+
+    #slider img {
+        width: 20em;
+        height: 20rem;
+        margin: auto;
+    }
+
+    #controls {
+        bottom: 60%
+    }
+
+    footer {
+        display: none;
+    }
+
+}
+
+@media(max-width:475px) {
+    .navlinks {
+        width: 100%;
+    }
+
+    .main-container {
+        width: 100%;
+        display: block;
+    }
+
+    .menu img {
+        display: none;
+    }
+
+    .column1 {
+        width: 100%;
+    }
+
+    .column1 h1 {
+        font-size: 3rem;
+        line-height: 45px;
+        margin: 1rem;
+        text-align: center;
+    }
+
+
+#slider {
+    width: 100%;
+ 
+    text-align: center;
+    max-width: 100%;
+}
+/* }  */
+
+@media (min-width:300px) {
+    .navlinks {
+        width: 100%;
+    }
+
+    .column1 {
+        padding: 1rem;
+
+    }
+
+    .column1 h1 {
+        font-size: 9px;
+        font-weight: 200;
+        padding: 1rem;
+    }
+
+    .search img {
+
+        width: 1rem;
+        height: 1rem;
+        margin-left: 0;
+        padding-right: 44px;
+
+    }
+
+    #slider {
+        width: 100%;
+        height: 40%;
+
+    }
+
+    #slider img {
+        width: 10rem;
+        height: 10rem;
+        padding-top: 1rem;
+        padding: 2rem;
+
+    }
+}
+
+@media(max-width : 375px) {
+    header .navlinks {
+        width: 100%;
+        position: fixed;
+    }
+
+    .main-container {
+        width: 100%;
+        height: 200%;
+        display: block;
+
+
+    }
+
+    .menu img {
+        display: none;
+    }
+
+    .column1 {
+        height: 40%;
+        width: 100%;
+        padding: 0.89rem;
+
+    }
+
+    .column1 h1 {
+        font-size: 1.5rem;
+        line-height: 25px;
+        padding: 0.19rem;
+        margin: 5rem;
+        text-align: center;
+    }
+
+    .column1 p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        padding: 0.2rem;
+        text-align: center;
+        margin: auto;
+
+    }
+
+    .buttons img {
+        width: 12rem;
+        padding: 0.5rem;
+        margin: 0rem 1rem;
+        margin-left: 3rem;
+        text-align: center;
+
+
+    }
+
+    .search img {
+        width: 18rem;
+        height: 2.5rem;
+        margin-left: 1rem;
+    }
+
+    #slider {
+        width: 100%;
+        height: 60%;
+        position: relative;
+        top: 30rem;
+        text-align: center;
+        max-width: 100%;
+
+    }
+
+    #slider img {
+        width: 20em;
+        height: 20rem;
+        margin: auto;
+    }
+
+    #controls {
+        bottom: 60%
+    }
+
+    footer {
+        display: none;
+    }
+
+}
+
+@media(max-width:475px) {
+    .navlinks {
+        width: 100%;
+    }
+
+    .main-container {
+        width: 100%;
+        display: block;
+    }
+
+    .menu img {
+        display: none;
+    }
+
+    .column1 {
+        width: 100%;
+    }
+
+    .column1 h1 {
+        font-size: 3rem;
+        line-height: 45px;
+        margin: 1rem;
+        text-align: center;
+    }
+
+
+
+#slider {
+    width: 100%;
+    position: absolute;
+    top: 25rem;
+    text-align: center;
+    max-width: 100%;
+}
+}
+
